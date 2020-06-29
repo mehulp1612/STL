@@ -387,7 +387,7 @@ void explainExtra() {
 
 	sort(a, a+n, greater<int>);
 
-    pair<int,int> a[] = {{1,2}, {2, 1}, {4, 1}};
+   // pair<int,int> a[] = {{1,2}, {2, 1}, {4, 1}};
 
     // sort it according to second element
     // if second element is same, then sort
